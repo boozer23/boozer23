@@ -15,7 +15,8 @@ Self-taught DevOps/Cloud Engineer. Learning by building real projects.
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [DevOps Journey](https://github.com/boozer23/my_devops_journey) | Learning path with real projects | Python, Docker, Flask, Redis |
+| [Flask + Redis](https://github.com/boozer23/flask-redis-docker) | Multi-container app with visit counter and persistent storage | Python, Docker, Redis, Docker Compose |
+| [DevOps Journey](https://github.com/boozer23/my_devops_journey) | Learning path with real projects | Python, Docker, Flask, GitHub Actions |
 
 ## 📈 Currently Learning
 
