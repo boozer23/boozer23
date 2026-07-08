@@ -15,7 +15,7 @@ Self-taught DevOps/Cloud Engineer. Learning by building real projects.
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [DevOps Dashboard](https://github.com/boozer23/devops-dashboard) | Real-time system monitoring with AI analysis and Telegram alerts | Python, Flask, Docker, Claude API |
+| [DevOps Dashboard](https://github.com/boozer23/devops-dashboard) | Real-time system monitoring with AI analysis and Telegram alerts • [Live Demo](https://devops-dashboard-p6n6.onrender.com) | Python, Flask, Docker, Groq API |
 | [Flask + Redis](https://github.com/boozer23/flask-redis-docker) | Multi-container app with visit counter and persistent storage | Python, Docker, Redis, Docker Compose |
 | [DevOps Journey](https://github.com/boozer23/my_devops_journey) | Learning path with real projects | Python, Docker, Flask, GitHub Actions |
 
