@@ -8,6 +8,8 @@ Junior DevOps engineer. Self-taught, building in public.
 
 → [Flask + Redis](https://github.com/boozer23/flask-redis-docker) — multi-container Docker app
 
+→ [Nginx + Flask](https://github.com/boozer23/nginx-flask) — nginx reverse proxy with Docker Compose
+
 Currently learning Kubernetes and Terraform. Looking for a junior DevOps role.
 
 Telegram: @boozer23
