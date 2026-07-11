@@ -12,6 +12,8 @@ Junior DevOps engineer. Self-taught, building in public.
 
 → [Nginx + Prometheus + Grafana](https://github.com/boozer23/nginx-flask) — reverse proxy with monitoring stack
 
+→ [CI/CD via GitHub Actions](https://github.com/boozer23/hh-cover-letter-proxy/actions) — automated build checks on every push
+
 Currently learning Kubernetes and Terraform. Looking for a junior DevOps role.
 
 Telegram: @boozer23
